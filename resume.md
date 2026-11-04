@@ -2,9 +2,9 @@
 
 ## About
 
-- Sydney, NSW, Australia
-- https://github.com/anthonygore
-- https://www.linkedin.com/in/anthonygore/
+- Location: Sydney, NSW, Australia
+- GitHub: https://github.com/anthonygore
+- LinkedIn: https://www.linkedin.com/in/anthonygore/
 
 Senior software developer with 14 years of experience building full-stack web apps using Vue.js, TypeScript, Node.js, and more recently agentic AI engineering workflows. Skilled in software architecture, performance optimisation, and project leadership. Published technical author and founder of an acquired developer education business.
 
