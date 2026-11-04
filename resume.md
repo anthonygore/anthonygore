@@ -1,4 +1,4 @@
-# Anthony Gore
+# Anthony Gore - Senior Full-Stack Developer
 
 ## About
 
