@@ -1,4 +1,4 @@
-# Hi 👋 I'm Anthony Gore
+# Hi 👋 I'm Anthony
 
 ### Senior Software Engineer - Vue, TypeScript, Node, Agentic AI
 
@@ -10,7 +10,7 @@ In addition to writing code, I've published a 376-page technical guide on web de
 
 I've also shipped my own indie products including MagicQuiz, an AI-powered quiz app for Atlassian Confluence, and CourseKit, a headless LMS & course platform.
 
-## Get in touch
+## More
 
 - [LinkedIn](https://www.linkedin.com/in/anthonygore/)
 - [Resume](https://github.com/anthonygore/anthonygore/blob/main/resume.md)
