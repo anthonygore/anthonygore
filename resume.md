@@ -1,6 +1,6 @@
 # Anthony Gore
 
-## About me
+## About
 
 - Sydney, NSW, Australia
 - https://github.com/anthonygore

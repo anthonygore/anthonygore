@@ -13,3 +13,4 @@ I've also shipped my own indie products including MagicQuiz, an AI-powered quiz 
 ## Get in touch
 
 - [LinkedIn](https://www.linkedin.com/in/anthonygore/)
+- [Resume](https://github.com/anthonygore/anthonygore/blob/main/resume.md)
