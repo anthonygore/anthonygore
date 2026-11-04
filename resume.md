@@ -1,29 +1,21 @@
-# Resume
+# Anthony Gore
 
-## Contact details
+## About me
 
-Anthony Gore
-Sydney, NSW, Australia
-
-hi@anthonygore.com
-0402 180 251
-
-https://github.com/anthonygore
-https://www.linkedin.com/in/anthonygore/
-https://anthonygore.com
-
-## Summary
+- Sydney, NSW, Australia
+- https://github.com/anthonygore
+- https://www.linkedin.com/in/anthonygore/
 
 Senior software developer with 14 years of experience building full-stack web apps using Vue.js, TypeScript, Node.js, and more recently agentic AI engineering workflows. Skilled in software architecture, performance optimisation, and project leadership. Published technical author and founder of an acquired developer education business.
 
 ## Skills
 
-Languages: TypeScript, JavaScript, PHP
-Frontend: Vue.js, Storybook, Tailwind
-Backend: Node.js, Laravel, MySQL, MongoDB
-DevOps: AWS, Docker, GitHub CI
-Testing: Playwright, Vitest
-AI & Automation: GitHub Copilot, OpenCode, OpenAI APIs
+- Languages: TypeScript, JavaScript, PHP
+- Frontend: Vue.js, Storybook, Tailwind
+- Backend: Node.js, Laravel, MySQL, MongoDB
+- DevOps: AWS, Docker, GitHub CI
+- Testing: Playwright, Vitest
+- AI & Automation: GitHub Copilot, OpenCode, OpenAI APIs
 
 ## Experience
 
@@ -31,7 +23,7 @@ AI & Automation: GitHub Copilot, OpenCode, OpenAI APIs
 
 Boston-based SaaS company providing touchscreen solutions. Recruited as an early engineer for my Vue.js expertise and to establish engineering best practices. Helped scale the product from early users to over 1,200 organisations, and contributed to the company's rollout of agentic AI engineering workflows.
 
-Key projects:
+**Key projects:**
 
 Data layer redesign
 
