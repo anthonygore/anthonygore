@@ -4,7 +4,7 @@
 - GitHub: https://github.com/anthonygore
 - LinkedIn: https://www.linkedin.com/in/anthonygore/
 
-Senior software developer with 14 years of experience building full-stack web apps using Vue.js, TypeScript, Node.js, and more recently agentic AI engineering workflows. Skilled in software architecture, performance optimisation, and project leadership. Published technical author and founder of an acquired developer education business.
+Senior software developer with 14 years of experience building full-stack web apps using Vue.js, React, TypeScript, Node.js, and more recently agentic AI engineering workflows. Skilled in software architecture, performance optimisation, and project leadership. Published technical author and founder of an acquired developer education business.
 
 ## Skills
 
@@ -43,10 +43,10 @@ Vue.js, TypeScript, Storybook, Node.js, MongoDB, AWS, Playwright, GitHub CI/CD, 
 
 ### Freelance Software Developer, 2022 - 2022
 
-SwagNSend Inventory Management Portal
+*SwagNSend Inventory Management Portal*
 
-- Built custom software for client to automate manual workflows across software, spreadsheets, documents, and email. Full-stack app using Laravel & Vue.js.
-- Led client discovery onsite, defined requirements and wireframes, negotiated delivery milestones, and, trained staff.
+- Built custom portal for client to automate manual inventory management workflows across software, spreadsheets, documents, and email. Implemented as full-stack app using Laravel & Vue.js.
+- Led client discovery onsite, defined requirements and wireframes, negotiated delivery milestones, and trained staff.
 
 ### Founder - Vue.js Developers, 2016 - 2022
 
