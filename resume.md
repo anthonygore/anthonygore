@@ -46,7 +46,7 @@ Vue.js, TypeScript, Storybook, Node.js, MongoDB, AWS, Playwright, GitHub CI/CD, 
 *SwagNSend Inventory Management Portal*
 
 - Built custom portal for client to automate manual inventory management workflows across software, spreadsheets, documents, and email. Implemented as full-stack app using Laravel & Vue.js.
-- Led client discovery onsite, defined requirements and wireframes, negotiated delivery milestones, and trained staff.
+- Led client discovery onsite, modelled existing and proposed inventory workflows using UML, defined requirements and wireframes, negotiated delivery milestones, and trained staff.
 
 ### Founder - Vue.js Developers, 2016 - 2022
 
