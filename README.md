@@ -2,9 +2,9 @@
 
 ### Senior Software Engineer - Vue, TypeScript, Node, Agentic AI
 
-Senior developer based in Sydney with 14 years of experience building full-stack web apps with Vue.js, TypeScript, Node.js, and agentic AI engineering workflows.
+Senior developer based in Sydney with 14 years of experience building full-stack web apps with Vue.js, React, TypeScript, Node.js, and agentic AI engineering workflows.
 
-Currently Senior Software Engineer at Rocket Alumni Solutions, working across frontend architecture, UI development, web performance, and project leadership.
+Most recently Senior Software Engineer at US-based tech startup Rocket Alumni Solutions, working across frontend architecture, UI development, web performance, and project leadership.
 
 In addition to writing code, I've published a 376-page technical guide on web development and written 100+ technical blog articles including collaborations with Retool, Lob, Hasura, and GridDB.
 

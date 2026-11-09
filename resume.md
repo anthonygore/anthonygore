@@ -9,7 +9,7 @@ Senior software developer with 14 years of experience building full-stack web ap
 ## Skills
 
 - Languages: TypeScript, JavaScript, PHP
-- Frontend: Vue.js, Storybook, Tailwind
+- Frontend: Vue.js, React, Storybook, Tailwind
 - Backend: Node.js, Laravel, MySQL, MongoDB
 - DevOps: AWS, Docker, GitHub CI
 - Testing: Playwright, Vitest
@@ -17,9 +17,9 @@ Senior software developer with 14 years of experience building full-stack web ap
 
 ## Experience
 
-### Senior Software Engineer - Rocket Alumni Solutions, 2022 - Present
+### Senior Software Engineer - Rocket Alumni Solutions, 2022 - 2026
 
-Boston-based SaaS company providing touchscreen solutions. Recruited as an early engineer for my Vue.js expertise and to establish engineering best practices. Helped scale the product from early users to over 1,200 organisations, and contributed to the company's rollout of agentic AI engineering workflows.
+US-based tech startup providing touchscreen solutions. Recruited as an early engineer for my Vue.js expertise and to establish engineering best practices. Helped scale the product from early users to over 1,200 organisations, and contributed to the company's rollout of agentic AI engineering workflows.
 
 **Key projects:**
 
@@ -37,6 +37,16 @@ Design system and component library
 
 - Collaborated with design team to build reusable UI component system to improve visual consistency and speed up UI development.
 - Implemented key layouts and widget designs from Figma with Storybook and atomic design methodology.
+
+**Tech used:**
+Vue.js, TypeScript, Storybook, Node.js, MongoDB, AWS, Playwright, GitHub CI/CD, Docker
+
+### Freelance Software Developer, 2022 - 2022
+
+SwagNSend Inventory Management Portal
+
+- Built custom software for client to automate manual workflows across software, spreadsheets, documents, and email. Full-stack app using Laravel & Vue.js.
+- Led client discovery onsite, defined requirements and wireframes, negotiated delivery milestones, and, trained staff.
 
 ### Founder - Vue.js Developers, 2016 - 2022
 
@@ -59,7 +69,7 @@ Sydney-based marketing company specialising in ad purchasing and lead generation
 - Built and deployed marketing landing pages using HTML and JavaScript. Translated designs into functional pages with lead capture forms.
 - Implemented API integrations with services like Salesforce and Mailchimp to automate marketing campaigns.
 
-## Projects
+## Personal Projects
 
 ### MagicQuiz - 2023
 
