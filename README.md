@@ -1,6 +1,6 @@
 # Hi 👋 I'm Anthony
 
-### Senior Software Engineer - Vue, TypeScript, Node, Agentic AI
+### Senior Software Engineer - Vue, React, TypeScript, Node, Agentic AI
 
 Senior developer based in Sydney with 14 years of experience building full-stack web apps with Vue.js, React, TypeScript, Node.js, and agentic AI engineering workflows.
 
